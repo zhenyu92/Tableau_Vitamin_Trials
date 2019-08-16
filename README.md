@@ -10,6 +10,7 @@ This project is a part of the learning milestone of a Udemy course delivered by 
 
 ### Project Objective
 Recently there was a vitamin trial that ran for several weeks: a new vitamin was prescribed to people of different ages and genders in different dosages. At the end of the trial they were all given the same control exam to test their cognitive ability.
+
 We have been hired by a health research lab to analyse the result of the trial and visualize them in the form of a scatterplot.
 All trends must be made easily visible on the scatterplot without the aid of markup tools and annotations.
 
