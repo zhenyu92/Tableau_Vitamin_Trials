@@ -23,7 +23,7 @@ Database can be downloaded from [Here](https://github.com/zhenyu92/Tableau_Vitam
 ### Import & Tuning in Tableau 2019
 Tableau workbook for this project can be viewed and downloaded from [Here](https://public.tableau.com/profile/derrick1466#!/vizhome/VitaminTrails/Sheet12).
 
-###Screenshot of the Dashboard: 
+### Screenshot of the Dashboard: 
 1. Default Color Scheme
 ![alt text](https://github.com/zhenyu92/Tableau_Vitamin_Trials/blob/master/Default%20Color%20Scheme.JPG "Default Color Scheme")
 
